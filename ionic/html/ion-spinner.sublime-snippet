@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<ion-spinner></ion-spinner>
+]]></content>
+  <tabTrigger>ion-spinner</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

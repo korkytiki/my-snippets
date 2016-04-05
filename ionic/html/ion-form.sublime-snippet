@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<div class="list">
+	<label class="item item-input">
+		<input type="text" placeholder="Text">
+	</label>
+</div>
+]]></content>
+  <tabTrigger>ion-form</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<div class="item range">
+	<i class="icon ion-volume-low"></i>
+	<input type="range" name="volume">
+	<i class="icon ion-volume-high"></i>
+</div>
+]]></content>
+  <tabTrigger>ion-range</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

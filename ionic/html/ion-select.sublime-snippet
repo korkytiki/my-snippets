@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+<label class="item item-input item-select">
+	<div class="input-label">
+		Lightsaber
+	</div>
+	<select>
+		<option>Blue</option>
+		<option selected>Green</option>
+		<option>Red</option>
+	</select>
+</label>
+]]></content>
+  <tabTrigger>ion-select</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

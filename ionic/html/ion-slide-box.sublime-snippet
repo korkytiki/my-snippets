@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<ion-slide-box>
+  <ion-slide>
+    <div class="box blue"><h1>BLUE</h1></div>
+  </ion-slide>
+</ion-slide-box>
+]]></content>
+  <tabTrigger>ion-slide-box</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

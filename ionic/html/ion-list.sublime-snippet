@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<ion-list>
+	<ion-item>
+	</ion-item>
+</ion-list>
+]]></content>
+  <tabTrigger>ion-list</tabTrigger>
+  <scope>text.html</scope>
+</snippet>
